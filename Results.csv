@@ -1,0 +1,11 @@
+﻿Model,Accuracy,Project
+DecisionTree,91.16,1
+LinearSVC,83.82,1
+LogisticRegression,87.49,1
+Stacking,93.15,2
+GradientBoostingClassifier,93.19,2
+HistGradientBoostingClassifier,93.03,2
+BaggingClassifier,92.37,2
+RandomForest,92.51,2
+Casey DNN,92,2
+Evan DNN,91.45,2
